@@ -8,6 +8,7 @@ h1{
   font-size: 25px;
   top: 0;
 }
+/*the absolute position here helps the nav bar be on the same line as h1*/
 ol{
   float: right;
   margin-top: 0px;
@@ -45,10 +46,12 @@ h2,h3,p,li{
   text-emphasis: bold;
   text-align: center;
 }
+/*here is my styled links css*/
 a:link{color:black}
 a:visited{color: indigo}
 a:hover {color: blue}
 a:active{color:plum}
+/*this is the block of code to auto center the embeded map*/
 iframe{
   display: block;
   margin-left: auto;
