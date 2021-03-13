@@ -47,7 +47,7 @@ h2,h3,p,li{
 }
 a:link{color:black}
 a:visited{color: indigo}
-a:hover {color: whitesmoke}
+a:hover {color: blue}
 a:active{color:plum}
 iframe{
   display: block;
