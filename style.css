@@ -15,6 +15,9 @@ ol{
   right: 0;
   top: 10px;
 }
+img{
+   height: 500px;
+}
 ol li{
   display: inline-block;
   padding-top: 10px;
@@ -23,14 +26,14 @@ ol li{
   color: rgb(0, 0, 0);
   font-size: 20px;
   text-decoration: none;
-  background-color: rgb(7, 70, 35);
+  background-color: white;
   border: 3px solid black;
   border-radius: 6px;
   padding: 0px;
   margin: 5px 5px;
 }
 
-//used an absolute placement of the nav bar to the nearest container which would be the header
+/*this block above the comment is creating the buttons for our nav bar*/
 
 li{
   list-style-type: none;
@@ -39,7 +42,7 @@ h2,h3,p,li{
   text-emphasis: bold;
   text-align: center;
 }
-a:link{color:navy}
+a:link{color:black}
 a:visited{color: indigo}
 a:hover {color: whitesmoke}
 a:active{color:plum}
