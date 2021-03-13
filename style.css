@@ -16,11 +16,10 @@ ol{
   top: 10px;
 }
 .center{
-   height: 500px;
+  height: 500px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
 ol li{
   display: inline-block;
